@@ -1,0 +1,21 @@
+{
+    "name": "valkyrie-dark",
+    "displayName": "valkyrie",
+    "description": "A dark green theme for Visual Studio Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Valkyrie Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Valkyrie Theme-color-theme.json"
+            }
+        ]
+    }
+}
