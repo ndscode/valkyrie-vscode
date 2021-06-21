@@ -1,4 +1,4 @@
-# README
+# <p align="center">Valkyrie Theme</p>
 ## This is the README for your extension "valkyrie-dark"
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
