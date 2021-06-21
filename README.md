@@ -26,7 +26,7 @@
 <p>Read the <a href="https://github.com/ndscode/valkyrie-vscode/blob/main/vsc-extension-quickstart.md">VSC Extension Quickstart Guide</a></p>
 
 <h2>Theming Reference</h2>
-
+<p>Syntax & Workbench colors based on <a href="https://monokai.pro/">Monokai Classic Theme</a></p>
 
 
 
