@@ -23,7 +23,7 @@
 
 
 <h2>Manual Installation</h2>
-<p>Read the <a href="https://github.com/ndscode/valkyrie-vscode/blob/main/vsc-extension-quickstart.md"</a>VSC Extension Quickstart Guide</p>
+<p>Read the <a href="https://github.com/ndscode/valkyrie-vscode/blob/main/vsc-extension-quickstart.md">VSC Extension Quickstart Guide</a></p>
 
 <h2>Theming Reference</h2>
 
