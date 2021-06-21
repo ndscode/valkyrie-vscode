@@ -3,6 +3,7 @@
     "displayName": "valkyrie",
     "description": "A dark green theme for Visual Studio Code",
     "version": "0.0.1",
+    "publisher": "nedcode",
     "engines": {
         "vscode": "^1.57.0"
     },
