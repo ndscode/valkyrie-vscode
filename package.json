@@ -2,19 +2,19 @@
     "name": "valkyrie-dark",
     "displayName": "Valkyrie Theme",
     "description": "A dark green theme for Visual Studio Code",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "nedcode",
     "author": {
-      "name": "Ned Marafawi",
-      "email": "ned.marafawi@gmail.com"
+        "name": "Ned Marafawi",
+        "email": "ned.marafawi@gmail.com"
     },
     "repository": {
-      "type": "git",
-      "url": "https://github.com/ndscode/valkyrie-vscode"
+        "type": "git",
+        "url": "https://github.com/ndscode/valkyrie-vscode"
     },
     "bugs": {
-      "url": "https://github.com/ndscode/valkyrie-vscode/issues",
-      "email": "ned.marafawi@gmail.com"
+        "url": "https://github.com/ndscode/valkyrie-vscode/issues",
+        "email": "ned.marafawi@gmail.com"
     },
     "engines": {
         "vscode": "^1.57.0"
@@ -23,10 +23,10 @@
         "Themes"
     ],
     "keywords": [
-      "theme",
-      "dark theme",
-      "color-theme",
-      "valkyrie"
+        "theme",
+        "dark theme",
+        "color-theme",
+        "valkyrie"
     ],
     "contributes": {
         "themes": [
