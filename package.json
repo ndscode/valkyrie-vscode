@@ -12,6 +12,10 @@
       "type": "git",
       "url": "https://github.com/ndscode/valkyrie-vscode"
     },
+    "bugs": {
+      "url": "https://github.com/ndscode/valkyrie-vscode/issues",
+      "email": "ned.marafawi@gmail.com"
+    },
     "engines": {
         "vscode": "^1.57.0"
     },
