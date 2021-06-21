@@ -8,6 +8,10 @@
       "name": "Ned Marafawi",
       "email": "ned.marafawi@gmail.com"
     },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ndscode/valkyrie-vscode"
+    },
     "engines": {
         "vscode": "^1.57.0"
     },
