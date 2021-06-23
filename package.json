@@ -4,6 +4,7 @@
     "description": "A dark green theme for VS Code based on the Monokai Classic theme",
     "version": "0.0.3",
     "publisher": "nedcode",
+    "icon": "images/logo.png",
     "author": {
         "name": "Ned Marafawi",
         "email": "ned.marafawi@gmail.com"
