@@ -1,3 +1,8 @@
+<p align="center">
+  <a target="_blank" href="https://raw.github.com/ndscode/valkyrie-vscode/main/images/logo.png">
+    <img src="https://raw.github.com/ndscode/valkyrie-vscode/main/images/logo.png" alt="valkyrie_logo" width="150" style="max-width:100%;">
+  </a>
+</p>
 <h1 align="center">Valkyrie Theme</h1>
 <p align="center">A dark green theme for VS Code</p>
 
