@@ -9,21 +9,21 @@
 <h3>JavaScript</h3>
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ndscode/valkyrie-vscode/main/images/js.png">
-    <img src="https://raw.githubusercontent.com/ndscode/valkyrie-vscode/main/images/js.png" alt="valkyrie_logo" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/ndscode/valkyrie-vscode/main/images/js.png" alt="js demo" style="max-width:100%;">
   </a>
 </p>
 
 <h3>HTML</h3>
 <p align="center">
     <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ndscode/valkyrie-vscode/main/images/html.png">
-    <img src="https://raw.githubusercontent.com/ndscode/valkyrie-vscode/main/images/html.png" alt="valkyrie_logo" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/ndscode/valkyrie-vscode/main/images/html.png" alt="html demo" style="max-width:100%;">
   </a>
 </p>
 
 <h3>CSS</h3>
 <p align="center">
     <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ndscode/valkyrie-vscode/main/images/css.png">
-    <img src="https://raw.githubusercontent.com/ndscode/valkyrie-vscode/main/images/css.png" alt="valkyrie_logo" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/ndscode/valkyrie-vscode/main/images/css.png" alt="css demo" style="max-width:100%;">
   </a>
 </p>
 
