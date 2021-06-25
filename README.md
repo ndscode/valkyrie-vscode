@@ -6,6 +6,32 @@
 <h1 align="center">Valkyrie Theme</h1>
 <p align="center">A dark green theme for VS Code</p>
 
+<h3>JavaScript</h3>
+<p align="center">
+  <a target="_blank" href="https://raw.githubusercontent.com/ndscode/valkyrie-vscode/main/images/js.png">
+    <img src="https://raw.githubusercontent.com/ndscode/valkyrie-vscode/main/images/js.png" alt="valkyrie_logo" style="max-width:100%;">
+  </a>
+</p>
+
+<h3>HTML</h3>
+<p align="center">
+    <a target="_blank" href="https://raw.githubusercontent.com/ndscode/valkyrie-vscode/main/images/html.png">
+    <img src="https://raw.githubusercontent.com/ndscode/valkyrie-vscode/main/images/html.png" alt="valkyrie_logo" style="max-width:100%;">
+  </a>
+</p>
+
+<h3>CSS</h3>
+<p align="center">
+    <a target="_blank" href="https://raw.githubusercontent.com/ndscode/valkyrie-vscode/main/images/css.png">
+    <img src="https://raw.githubusercontent.com/ndscode/valkyrie-vscode/main/images/css.png" alt="valkyrie_logo" style="max-width:100%;">
+  </a>
+</p>
+
+
+
+
+
+
 <h2>Installation via VS Code</h2>
 <ol>
   <li>
