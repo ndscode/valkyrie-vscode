@@ -9,7 +9,6 @@
       "activityBarBadge.background": "#FFC914",
       "activityBarBadge.foreground": "#000000",
 	    "activityBar.inactiveForeground": "#ca9f7752",
-      
       "badge.background": "#FFC914",
       "badge.foreground": "#000000",
       "breadcrumb.activeSelectionForeground": "#FFC914",
@@ -46,7 +45,6 @@
       "editorGroupHeader.tabsBackground": "#1C2424",
       "editorGutter.addedBackground": "#000000",
 			// "editorGutter.background" : "#1C2424",
-
       "editorGutter.deletedBackground": "#00000060",
       "editorGutter.modifiedBackground": "#00000060",
       // "editorHoverWidget.background": "#161616",
@@ -76,12 +74,10 @@
       "editorWidget.border": "#FFC914",
       "editorWidget.resizeBorder": "#FFC914",
 			"errorLens.errorBackground": "#e4545420",
-			
       "extensionButton.prominentBackground": "#332e2b81",
       "extensionButton.prominentHoverBackground": "#000000",
       "focusBorder": "#ffc8141f",
 			"foreground": "#c5b79b",
-
 			"gitDecoration.conflictingResourceForeground": "#b16286",
 			"gitDecoration.deletedResourceForeground": "#cc241d",
 			"gitDecoration.ignoredResourceForeground": "#7c6f64",
