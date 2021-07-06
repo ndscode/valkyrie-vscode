@@ -2,7 +2,7 @@
     "name": "valkyrie-dark",
     "displayName": "Valkyrie",
     "description": "A dark green theme for VS Code based on the Monokai Classic theme",
-    "version": "0.0.11",
+    "version": "0.1.0",
     "publisher": "nedcode",
     "icon": "images/logo.png",
     "author": {
