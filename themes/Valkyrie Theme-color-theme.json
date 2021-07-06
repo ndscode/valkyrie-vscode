@@ -38,7 +38,6 @@
       // "editor.selectionHighlightBackground": "#000000d2",
       "editor.selectionHighlightBorder": "#bbbbbbf0",
 			// "editor.wordHighlightBackground": "#00000075",
-
       "editorBracketMatch.background": "#1C2424",
       "editorBracketMatch.border": "#707070",
 			"editorCursor.foreground": "#FFC914",
@@ -65,8 +64,8 @@
       "editorOverviewRuler.infoForeground": "#00000040",
       "editorOverviewRuler.warningForeground": "#00000070",
 			// "editorPane.background": "#1C2424",
-
-      "editorRuler.foreground": "#ffc81410",
+      // here
+      "editorRuler.foreground": "#6e60441c",
       "editorSuggestWidget.background": "#273131",
       "editorSuggestWidget.border": "#1C2424",
       "editorSuggestWidget.foreground": "#e6d4bb",
