@@ -43,7 +43,7 @@
       "editorBracketMatch.border": "#707070",
 			"editorCursor.foreground": "#FFC914",
       "editorError.foreground": "#00000070",
-      // "editorGroup.border": "#ffc81410",
+      "editorGroup.border": "#1C2424",
       "editorGroupHeader.tabsBackground": "#1C2424",
       "editorGutter.addedBackground": "#000000",
 			// "editorGutter.background" : "#1C2424",
@@ -55,8 +55,7 @@
       "editorIndentGuide.activeBackground": "#c2c207",
       "editorIndentGuide.background": "#6e604448",
       "editorInfo.foreground": "#00000070",
-      "editorLineNu
-      mber.activeForeground": "#FFC914",
+      "editorLineNumber.activeForeground": "#FFC914",
       "editorLineNumber.foreground": "#6e604469",
       "editorLink.activeForeground": "#A89984",
       "editorMarkerNavigation.background": "#A8998405",
@@ -221,6 +220,7 @@
       "titleBar.inactiveBackground": "#000000",
       "titleBar.inactiveForeground": "#000000",
       "tree.indentGuidesStroke": "#ffc81410",
+      "tree.tableColumnsBorder": "#1C2424", 
       "widget.shadow": "#00000083",
     },
     "tokenColors": [
