@@ -32,7 +32,7 @@
 
 
 
-<h2>Installation via VS Code</h2>
+<h2>:hourglass: Installation via VS Code</h2>
 <ol>
   <li>
     Open <strong>Extensions</strong> sidebar panel in VS Code.
@@ -53,10 +53,10 @@
 </ol>
 
 
-<h2>Manual Installation</h2>
+<h2>:hourglass_flowing_sand: Manual Installation</h2>
 <p>Read the <a href="https://github.com/ndscode/valkyrie-vscode/blob/main/vsc-extension-quickstart.md">VSC Extension Quickstart Guide</a></p>
 
-<h2>Theming Reference</h2>
+<h2>:paperclip: Theming Reference</h2>
 <p>Syntax & Workbench colors based on <a href="https://monokai.pro/">Monokai Classic Theme</a></p>
 
 
