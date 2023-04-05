@@ -6,6 +6,13 @@
 <h1 align="center">Valkyrie Theme</h1>
 <p align="center">A dark green theme for VS Code</p>
 
+<!--
+<p align="center">
+<img src="https://user-images.githubusercontent.com/70671308/183814535-8c2c8c3b-8b8f-4810-983f-f4cb517d1b51.gif" width="50%" height="50%">
+</p>
+-->
+
+
 <h3>JavaScript</h3>
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ndscode/valkyrie-vscode/main/images/js.png">
@@ -32,7 +39,7 @@
 
 
 
-<h2>Installation via VS Code</h2>
+<h2>:hourglass: Installation via VS Code</h2>
 <ol>
   <li>
     Open <strong>Extensions</strong> sidebar panel in VS Code.
@@ -53,10 +60,10 @@
 </ol>
 
 
-<h2>Manual Installation</h2>
+<h2>:hourglass_flowing_sand: Manual Installation</h2>
 <p>Read the <a href="https://github.com/ndscode/valkyrie-vscode/blob/main/vsc-extension-quickstart.md">VSC Extension Quickstart Guide</a></p>
 
-<h2>Theming Reference</h2>
+<h2>:paperclip: Theming Reference</h2>
 <p>Syntax & Workbench colors based on <a href="https://monokai.pro/">Monokai Classic Theme</a></p>
 
 
